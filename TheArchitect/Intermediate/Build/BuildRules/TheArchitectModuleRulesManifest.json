@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\The-Architect\\TheArchitect\\Source\\TheArchitect\\TheArchitect.Build.cs",
+		"H:\\The-Architect\\TheArchitect\\Source\\TheArchitect.Target.cs",
+		"H:\\The-Architect\\TheArchitect\\Source\\TheArchitectEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.0"
+}

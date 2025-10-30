@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TheArchitect.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"H:/The-Architect/TheArchitect/Intermediate/Build/Win64/x64/TheArchitectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"H:/The-Architect/TheArchitect/Intermediate/Build/Win64/x64/UnrealEditor/Development/TheArchitect/Module.TheArchitect.cpp.obj"
+"H:/The-Architect/TheArchitect/Intermediate/Build/Win64/x64/UnrealEditor/Development/TheArchitect/Default.rc2.res"
+/OUT:"H:/The-Architect/TheArchitect/Intermediate/Build/Win64/x64/UnrealEditor/Development/TheArchitect/UnrealEditor-TheArchitect.lib"

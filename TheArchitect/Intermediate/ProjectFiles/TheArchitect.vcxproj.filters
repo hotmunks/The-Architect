@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheArchitect.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheArchitectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\TheArchitect">
+      <UniqueIdentifier>{9BF3C960-93C7-3948-B90C-30801B3742A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheArchitect\TheArchitect.Build.cs">
+      <Filter>Source\TheArchitect</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheArchitect\TheArchitect.cpp">
+      <Filter>Source\TheArchitect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\TheArchitect.h">
+      <Filter>Source\TheArchitect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\TheArchitectCharacter.cpp">
+      <Filter>Source\TheArchitect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\TheArchitectCharacter.h">
+      <Filter>Source\TheArchitect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\TheArchitectGameMode.cpp">
+      <Filter>Source\TheArchitect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\TheArchitectGameMode.h">
+      <Filter>Source\TheArchitect</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\TheArchitectPlayerController.cpp">
+      <Filter>Source\TheArchitect</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\TheArchitectPlayerController.h">
+      <Filter>Source\TheArchitect</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheArchitect\Variant_Strategy">
+      <UniqueIdentifier>{77AD03B4-28BB-32DB-93E7-1F5F623E5016}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyGameMode.cpp">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyGameMode.h">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyPawn.cpp">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyPawn.h">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyPlayerController.cpp">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyPlayerController.h">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyUnit.cpp">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_Strategy\StrategyUnit.h">
+      <Filter>Source\TheArchitect\Variant_Strategy</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheArchitect\Variant_Strategy\UI">
+      <UniqueIdentifier>{7DDE2189-65A1-308A-983D-DE54307BD103}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_Strategy\UI\StrategyHUD.cpp">
+      <Filter>Source\TheArchitect\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_Strategy\UI\StrategyHUD.h">
+      <Filter>Source\TheArchitect\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_Strategy\UI\StrategyUI.cpp">
+      <Filter>Source\TheArchitect\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_Strategy\UI\StrategyUI.h">
+      <Filter>Source\TheArchitect\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheArchitect\Variant_TwinStick">
+      <UniqueIdentifier>{8D131E52-B069-3E3A-862A-71F4D1BD22BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\TheArchitect\Variant_TwinStick\AI">
+      <UniqueIdentifier>{35169BF8-7F02-32E4-80D3-32EEA62AB935}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickAIController.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickAIController.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickNPC.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickNPC.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickNPCDestruction.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickNPCDestruction.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickSpawner.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickSpawner.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickStateTreeUtility.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\AI\TwinStickStateTreeUtility.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheArchitect\Variant_TwinStick\Gameplay">
+      <UniqueIdentifier>{0500E54B-874D-3311-8AA6-6C0ABBEF27AA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\Gameplay\TwinStickAoEAttack.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\Gameplay\TwinStickAoEAttack.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\Gameplay\TwinStickPickup.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\Gameplay\TwinStickPickup.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\Gameplay\TwinStickProjectile.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\Gameplay\TwinStickProjectile.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\TwinStickCharacter.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\TwinStickCharacter.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\TwinStickGameMode.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\TwinStickGameMode.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\TwinStickPlayerController.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\TwinStickPlayerController.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick</Filter>
+    </ClInclude>
+    <Filter Include="Source\TheArchitect\Variant_TwinStick\UI">
+      <UniqueIdentifier>{599CF03D-598B-3F3A-8A0B-D03BF41ACA52}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheArchitect\Variant_TwinStick\UI\TwinStickUI.cpp">
+      <Filter>Source\TheArchitect\Variant_TwinStick\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheArchitect\Variant_TwinStick\UI\TwinStickUI.h">
+      <Filter>Source\TheArchitect\Variant_TwinStick\UI</Filter>
+    </ClInclude>
+    <None Include="..\..\TheArchitect.uproject" />
+  </ItemGroup>
+</Project>
